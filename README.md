@@ -74,7 +74,7 @@ I am especially interested in working with teams that care about:
 I am always open to discussing software engineering, scalable product development, modern web architecture, and practical Generative AI adoption.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Eric%20Chrisna-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-chrisna-7624b7a6)
-[![Email](https://img.shields.io/badge/Email-eric.soki%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:eric.soki@gmail.com)
+
 
 <!--
 **soki-chrisna/soki-chrisna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
