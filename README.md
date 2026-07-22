@@ -1,6 +1,6 @@
 # Hi, I'm Eric Chrisna
 
-** AI-Assisted Development | Senior Full-Stack Engineer | React.js, Node.js, PHP & Laravel |Generative AI and LLM Solutions**
+**AI-Assisted Development | Senior Full-Stack Engineer | React.js, Node.js, PHP & Laravel |Generative AI and LLM Solutions**
 
 I am a Senior Software Engineer with **15+ years of experience** designing, developing, modernizing, and maintaining scalable web applications. My background covers the full software development lifecycle, from requirements analysis and architecture to implementation, code review, optimization, and long-term maintenance.
 
